@@ -1,2 +1,2 @@
 # Game-Burung-Sederhana
-Game Tembak Burung dengan menggunakan bahasa Javascript sederhana
+Game tembak burung sederhana dengan menggunakan bahasa Javascript
